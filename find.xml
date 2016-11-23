@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'cloudbackenc-parent'" />
-    <option name="defaultScopeName" value="Project 'cloudbackenc-parent'" />
-    <option name="SEARCH_SCOPE" value="Project 'cloudbackenc-parent'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '[centralcontroller_main] - ...\centralcontroller\src\main\resources\db\changelog\db.changelog-master.yaml'" />
+    <option name="defaultScopeName" value="File '[centralcontroller_main] - ...\centralcontroller\src\main\resources\db\changelog\db.changelog-master.yaml'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[centralcontroller_main] - ...\centralcontroller\src\main\resources\db\changelog\db.changelog-master.yaml'" />
   </component>
 </application>
