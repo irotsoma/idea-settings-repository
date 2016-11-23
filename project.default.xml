@@ -1,113 +1,22 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CompilerConfiguration">
-        <resourceExtensions />
-        <wildcardResourcePatterns>
-          <entry name="!?*.java" />
-          <entry name="!?*.form" />
-          <entry name="!?*.class" />
-          <entry name="!?*.groovy" />
-          <entry name="!?*.scala" />
-          <entry name="!?*.flex" />
-          <entry name="!?*.kt" />
-          <entry name="!?*.clj" />
-          <entry name="!?*.aj" />
-        </wildcardResourcePatterns>
-        <annotationProcessing>
-          <profile default="true" name="Default" enabled="false">
-            <processorPath useClasspath="true" />
-          </profile>
-        </annotationProcessing>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
       </component>
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="$USER_HOME$/git/cloudbackenc" value="4435314661391" />
-            <entry key="$USER_HOME$/git/cloudbackenc/cloudservice-googledrive" value="2953740481828" />
-          </map>
-        </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
-        </option>
-      </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>Class structureJava</id>
-              </State>
-              <State>
-                <id>Code maturity issuesJava</id>
-              </State>
-              <State>
-                <id>Google Web Toolkit issues</id>
-              </State>
-              <State>
-                <id>Java</id>
-              </State>
-              <State>
-                <id>Java language level migration aidsJava</id>
-              </State>
-              <State>
-                <id>Javadoc issuesJava</id>
-              </State>
-              <State>
-                <id>Performance issuesJava</id>
-              </State>
-              <State>
-                <id>Spring</id>
-              </State>
-              <State>
-                <id>Spring AOPSpring</id>
-              </State>
-              <State>
-                <id>TestNGJava</id>
-              </State>
-              <State>
-                <id>Threading issuesJava</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>Android</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
-      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-        <OptionsSetting value="true" id="Add" />
-        <OptionsSetting value="true" id="Remove" />
-        <OptionsSetting value="true" id="Checkout" />
-        <OptionsSetting value="true" id="Update" />
-        <OptionsSetting value="true" id="Status" />
-        <OptionsSetting value="true" id="Edit" />
-        <ConfirmationsSetting value="0" id="Add" />
-        <ConfirmationsSetting value="0" id="Remove" />
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" />
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="$USER_HOME$/git/cloudbackenc" />
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+        <property name="settings.editor.selected.configurable" value="fileTemplates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="D:/Users/justin/git" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
           <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
@@ -189,25 +98,6 @@
           <listeners />
           <method />
         </configuration>
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
