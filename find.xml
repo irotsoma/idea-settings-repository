@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="File '[centralcontroller_main] - ...\centralcontroller\src\main\resources\db\changelog\db.changelog-master.yaml'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[centralcontroller_main] - ...\centralcontroller\src\main\resources\db\changelog\db.changelog-master.yaml'" />
-    <option name="FILE_MASK" value="*.kt, *.yaml" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +17,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.kt, *.yaml</mask>
+      <mask>.gradle</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
