@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '[centralcontroller] - .../cloudbackenc-centralcontroller/src/main/kotlin/com/irotsoma/cloudbackenc/centralcontroller/cloudservices/CloudServicesSettings.kt'" />
-    <option name="defaultScopeName" value="File '[centralcontroller] - .../cloudbackenc-centralcontroller/src/main/kotlin/com/irotsoma/cloudbackenc/centralcontroller/cloudservices/CloudServicesSettings.kt'" />
+    <option name="customScope" value="Project 'cloudbackenc-parent'" />
+    <option name="defaultScopeName" value="Project 'cloudbackenc-parent'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[centralcontroller] - .../cloudbackenc-centralcontroller/src/main/kotlin/com/irotsoma/cloudbackenc/centralcontroller/cloudservices/CloudServicesSettings.kt'" />
+    <option name="SEARCH_SCOPE" value="Project 'cloudbackenc-parent'" />
     <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
